@@ -1,12 +1,10 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Tharmathevan%20Dinujan&fontSize=70&animation=fadeIn" width="100%">
-</p>
+
 
 <p align="center">
   <img src="./githubdemo.gif" width="100%">
 </p>
 
-# <p align="center"> Tharmathevan Dinujan </p>
+
 
 <table align="center">
   <tr>
