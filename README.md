@@ -1,4 +1,4 @@
-# <img src="./original_Dinujan_github_meme_dark-ezgif.com-crop%20(1).gif" width="40px"> Hi, I'm Tharmathevan Dinujan! 👋
+# <img src="./original_Dinujan_github_meme_dark-ezgif.com-crop%20(1).gif" width="40px"> <img src="./githubdemo.gif" width="40px"> Hi, I'm Tharmathevan Dinujan! 👋
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Welcome%20to%20my%20Profile&fontSize=70&animation=fadeIn" width="100%">
