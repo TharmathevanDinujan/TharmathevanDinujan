@@ -5,8 +5,8 @@
 # <p align="center"> 🌐 Digital Craftsmanship & Full-Stack Innovation </p>
 
 <p align="center">
-  <img src="./githubdemo.gif" width="50px"> &nbsp;&nbsp;&nbsp;
-  <img src="./githubdemo.gif" width="50px">
+  <img src="./githubdemo.gif" width="540px"> &nbsp;&nbsp;&nbsp;
+  
 </p>
 
 <table align="center">
