@@ -1,13 +1,12 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=250&section=header&text=Tharmathevan%20Dinujan&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20UI/UX%20Enthusiast&descAlignY=60&descSize=25" width="100%">
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Tharmathevan%20Dinujan&fontSize=70&animation=fadeIn" width="100%">
 </p>
-
-# <p align="center"> 🌐 Digital Craftsmanship & Full-Stack Innovation </p>
 
 <p align="center">
-  <img src="./githubdemo.gif" width="540px"> &nbsp;&nbsp;&nbsp;
-  
+  <img src="./githubdemo.gif" width="100%">
 </p>
+
+# <p align="center"> Tharmathevan Dinujan </p>
 
 <table align="center">
   <tr>
@@ -44,30 +43,11 @@
 
 ---
 
-## 📂 Featured Ecosystems
-
-<table align="center">
-  <tr>
-    <td width="50%">
-      <h4> 📱 E-Commerce Hub </h4>
-      <p> A high-performance luxury cosmetics platform with seamless cart dynamics and premium UI. </p>
-      <a href="#">View Repo</a>
-    </td>
-    <td width="50%">
-      <h4> 🚗 Vehicle Demo </h4>
-      <p> A sleek automotive showcase with advanced filtering and dynamic search capabilities. </p>
-      <a href="#">View Repo</a>
-    </td>
-  </tr>
-</table>
-
----
-
 ## 📈 Activity & Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TharmathevanDinujan&show_icons=true&theme=vue-dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TharmathevanDinujan&theme=vue-dark&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=TharmathevanDinujan&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TharmathevanDinujan&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%">
 </p>
 
 ---
